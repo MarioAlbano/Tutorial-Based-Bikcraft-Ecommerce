@@ -1,6 +1,8 @@
 @import url(header.css);
 @import url(../home/introducao.css);
 @import url(../utilidades/componentes.css);
+@import url(../utilidades/tipografia.css);
+@import url(../utilidades/cor.css);
 
 body {
     margin: 0px;
