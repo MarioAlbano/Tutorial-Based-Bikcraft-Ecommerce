@@ -1,32 +1,12 @@
+/* Global */
+@import url(global.css);
 @import url(header.css);
-@import url(../home/introducao.css);
-@import url(../utilidades/componentes.css);
 @import url(../utilidades/tipografia.css);
-@import url(../utilidades/cor.css);
 
-body {
-    margin: 0px;
-    font-family: Arial, Helvetica, sans-serif;
-    padding-bottom: 600px;
-}
 
-ul {
-    padding: 0px;
-    list-style: none;
-}
+/* Utilidades */
+@import url(../utilidades/componentes.css);
+@import url(..//utilidades/cor.css);
 
-a {
-    text-decoration: none;
-    color: inherit;
-}
-
-h1,
-ul,
-p {
-    margin: 0px;
-}
-
-img {
-    max-width: 100%;
-    display: block;
-}
+/* Home */
+@import url(../home/introducao.css);
