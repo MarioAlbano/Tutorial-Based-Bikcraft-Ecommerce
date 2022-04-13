@@ -1,5 +1,74 @@
 /* :nth-child() seleciona somente um elemento específico */
-.bicicletas-bg:nth-child(3) {
+.bicicletas-bg:nth-child(odd) {
     background: var(--cor-11);
-    justify-content: end;
+}
+
+
+.bicicletas {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.bicicletas-imagem {
+    position: relative;
+}
+
+.bicicletas-imagem span {
+    background: var(--cor-12);
+    color: var(--cor-1);
+    display: inline-block;
+    padding: 8px 16px 8px 8px;
+    position: absolute;
+    top: 20px;
+    right: 0px;
+    border-radius: 4px 0 0 4px;
+}
+
+.bicicletas-conteudo {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-content: start;
+}
+
+.bicicletas h2,
+.bicicletas p {
+    grid-column: 1 / -1;
+}
+
+.bicicletas h2 {
+    margin-bottom: 20px;
+}
+
+.bicicletas h2::before {
+    content: "";
+    display: block;
+    width: 12px;
+    height: 8px;
+    background-color: var(--cor-p1);
+    margin-bottom: 8px;
+}
+
+.bicicletas p {
+    margin-bottom: 32px;
+}
+
+.bicicletas a {
+    place-self: end;
+}
+
+.bicicletas li {
+    display: flex;
+    align-items: center;
+}
+
+.bicicletas li+li {
+    margin-top: 16px;
+}
+
+.bicicletas-conteudo img {
+    width: 24px;
+    margin-right: 8px;
 }
