@@ -1,0 +1,5 @@
+/* :nth-child() seleciona somente um elemento específico */
+.bicicletas-bg:nth-child(3) {
+    background: var(--cor-11);
+    justify-content: end;
+}
