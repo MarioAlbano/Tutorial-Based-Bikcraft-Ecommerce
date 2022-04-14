@@ -1,8 +1,8 @@
-/* :nth-child() seleciona somente um elemento específico */
-.bicicletas-bg:nth-child(odd) {
-    background: var(--cor-11);
+/* :nth-child() seleciona somente um elemento específico 
+linear-gradient (to right cor1, cor2) é um jeito de dividir as cores sem quebrar durante a responsividade*/
+.bicicletas-bg:nth-child(3) {
+    background: linear-gradient(to right, var(--cor-0) 25%, var(--cor-11) 0%);
 }
-
 
 .bicicletas {
     display: grid;
@@ -30,6 +30,7 @@
 .bicicletas-conteudo {
     display: grid;
     grid-template-columns: 1fr auto;
+    align-content: start;
     align-content: start;
 }
 
@@ -79,6 +80,10 @@
         gap: 20px;
         padding-top: 40px;
         padding-bottom: 40px;
+    }
+
+    .bicicletas-bg:nth-child(3) {
+        background: var(--cor-11);
     }
 }
 
