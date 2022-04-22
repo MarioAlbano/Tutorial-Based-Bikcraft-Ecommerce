@@ -18,7 +18,7 @@ Feel free to message me. Thanks for your visit!
 
 Eu construi esse projeto baseado nos conhecimentos adquiridos do curso <a href="https://www.origamid.com/">Origamid</a> usando **HTML** e **CSS**.
 
-O site é sobre vendas fictícias de bicicletas. Este é um projeto multi-páginas que consegui testar afundo conseitos de CSS como Grid Layout e Flex Box, como tambem aprendi a dividir o site em pastas para a facilitar futuras alterações.
+O site é sobre vendas fictícias de bicicletas. Este é um projeto multi-páginas que consegui testar afundo conceitos de CSS como Grid Layout e Flex Box, como tambem aprendi a dividir o site em pastas para a facilitar futuras alterações.
 
 No futuro irei implementa-lo com JavaScript.
 
