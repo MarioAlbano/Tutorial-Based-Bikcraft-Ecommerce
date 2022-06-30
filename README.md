@@ -1,6 +1,6 @@
 # Bikcraft
 
-# Under development | Em construção / Melhoramentos
+# Under development | Em construção
 <br>
 
 Hello! This is the **Bikcraft** web site. 
