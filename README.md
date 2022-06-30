@@ -3,7 +3,7 @@
 # Under development | Em construção / Melhoramentos
 <br>
 
-[EN] Hello! This is the **Bikcraft** web site. 
+Hello! This is the **Bikcraft** web site. 
 
 I have build this project based with knowledge acquired In <a href="https://www.origamid.com/">Origamid</a> course using **HTML** and **CSS**.
 
@@ -14,7 +14,7 @@ In the future I will implement it with JavaScript.
 Feel free to message me. Thanks for your visit!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[BR] Olá! Este é o web site **Bikcraft**.
+Olá! Este é o web site **Bikcraft**.
 
 Eu construi esse projeto baseado nos conhecimentos adquiridos do curso <a href="https://www.origamid.com/">Origamid</a> usando **HTML** e **CSS**.
 
