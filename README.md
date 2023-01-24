@@ -1,25 +1,44 @@
-# Bikcraft
+### Hi there! 👋
 
-# Under development / Em construção
-<br>
+> This project is a final exercise inside the Origamid course. The project was maded with HTML5 and Css3 and Javascript.
+<img width="1426" alt="Captura de Tela 2023-01-23 às 13:36" src="src/components/img/fotos/site-example.png">
 
-## About:
+## What is inside?
 
-Hello! This is the **Bikcraft** web site. 
+- HTML
+- CSS3 
+- Prettier
+-Javascript
 
-I have build this project based with knowledge acquired In <a href="https://www.origamid.com/">Origamid</a> course using **HTML** and **CSS**.
+## Getting Started
 
-The site is about fictional bicycle sales. This is a multi-page project that I was able to test deeper CSS concepts like Frid Layout and Flex Box, as i also learned to divide the site into folders to facilitate future changes. In the future I will implement it with JavaScript.
+### Install dependencies:
 
-Feel free to message me. Thanks for your visit!
+```bash
+yarn
+```
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Sobre:
+or
 
-Olá! Este é o web site **Bikcraft**.
+```bash
+npm install
+```
 
-Eu construi esse projeto baseado nos conhecimentos adquiridos do curso <a href="https://www.origamid.com/">Origamid</a> usando **HTML** e **CSS**.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-O site é sobre vendas fictícias de bicicletas. Este é um projeto multi-páginas que consegui testar afundo conceitos de CSS como Grid Layout e Flex Box, como tambem aprendi a dividir o site em pastas para a facilitar futuras alterações. No futuro irei implementa-lo com JavaScript.
+## Structure
 
-Sinta-se livre para me mandar uma menssagem. Obrigado pela sua visita!
+```
+└── src
+    ├── components
+    ├── pages
+    ├── styles
+```
+
+| Folder              | Description                                      |
+| ----------          | -------------------------------------------      |
+| **components**      | Page components                                  |
+| **pages**           | Page components                                  |
+| **styles**          | Application styles                               |
+
+<p align="center">Made with 💜 by Mario</p>
