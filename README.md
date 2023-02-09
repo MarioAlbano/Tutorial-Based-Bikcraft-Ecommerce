@@ -8,7 +8,7 @@
 - HTML
 - CSS3 
 - Prettier
--Javascript
+- Javascript
 
 ## Getting Started
 
